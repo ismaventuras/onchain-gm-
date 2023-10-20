@@ -19,6 +19,6 @@ export function CountGm() {
   }, []);
 
   return (
-      <p>You have been GM🍉'd {visitCount} times.</p>
+      <p>You have been GM🍉&apos;d {visitCount} times.</p>
   );
 }
